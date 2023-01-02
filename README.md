@@ -1,5 +1,9 @@
 # Topics in Machine Learning Accelerator Design
 
+This is a reading list for the course [["Topics in Machine Learning Design" (CEN/CSE 598)](https://labs.engineering.asu.edu/mps-lab/teaching/mla/)] at Arizona State University. The course and this topic-wise reading list is aimed at helping students gain a solid understanding of the fundamentals of designing machine learning accelerators and relevant cutting-edge topics. The course targets discussing about 2-3 papers every week from this reading list in the class for the week’s topic. In addition, it lists more papers for each topic and papers for some additional related topics that may not get covered within the class due to limited class time. Therefore, in the reading list, additional topics and additional references for each topic are indicated by a note. Overall, the list could serve as a comprehensive reference for the learning and in-class discussion, as well as for the topical survey writing.
+
+**Course Overview:** Remarkable success of machine learning (ML) algorithms have led to deployment of industrial ML accelerators throughout cloud, mobile, edge, and wearables, and from computer vision and speech processing to recommendations and graph learning. This course is intended to provide students with a solid understanding of such accelerator system designs, including implications of the various hardware and software components on various costs such as latency, energy, area, throughput, power, storage, and inference accuracy for ML tasks. The course will start off with accelerator architectures for computer vision (convolutional and feed-forward neural networks), culminating into cutting-edge advances such as accelerator systems for federated, on-device, and graph learning and industrial case studies. The course also covers various important topics in the ML accelerator system design such as execution cost modeling, mapping and hardware exploration, compilers and ISAs for ML accelerators, multi-chip/multi-workload designs, accelerator-aware neural architecture search, and reliability and security of ML accelerators.
+
 ## Table of Contents
 - [Reference Books](#books)
 - [Reference Surveys](#surveys)
@@ -249,7 +253,7 @@ The following papers are additional readings.
 - Roesch, Jared, Steven Lyubomirsky, Marisa Kirisame, Logan Weber, Josh Pollock, Luis Vega, Ziheng Jiang, Tianqi Chen, Thierry Moreau, and Zachary Tatlock. "Relay: A high-level compiler for deep learning." arXiv preprint arXiv:1904.08368 (2019). [[Paper](https://arxiv.org/pdf/1904.08368.pdf)]
 - Kotsifakou, Maria, Prakalp Srivastava, Matthew D. Sinclair, Rakesh Komuravelli, Vikram Adve, and Sarita Adve. "Hpvm: Heterogeneous parallel virtual machine." In Proceedings of the 23rd ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, pp. 68-80. 2018. [[Paper](http://publish.illinois.edu/vikramadve/files/2021/03/18-PPOPP-HPVM.pdf)]
 
-### <a name="dsls"> Domain-Specific Languages (DSLs) for ML Accelerator Programming
+### <a name="dsls"></a>  Domain-Specific Languages (DSLs) for ML Accelerator Programming
 
 The following papers are additional readings.
 
@@ -637,3 +641,9 @@ The following papers are additional readings.
 - Chen, Xinyun, Chang Liu, Bo Li, Kimberly Lu, and Dawn Song. "Targeted backdoor attacks on deep learning systems using data poisoning." arXiv preprint arXiv:1712.05526 (2017). [[Paper](https://arxiv.org/pdf/1712.05526.pdf)]
 - Wang, Bolun, Yuanshun Yao, Shawn Shan, Huiying Li, Bimal Viswanath, Haitao Zheng, and Ben Y. Zhao. "Neural cleanse: Identifying and mitigating backdoor attacks in neural networks." In 2019 IEEE Symposium on Security and Privacy (SP), pp. 707-723. IEEE, 2019. [[Paper](https://people.cs.uchicago.edu/~ravenben/publications/pdf/backdoor-sp19.pdf)]
 - Liu, Kang, Brendan Dolan-Gavitt, and Siddharth Garg. "Fine-pruning: Defending against backdooring attacks on deep neural networks." In International Symposium on Research in Attacks, Intrusions, and Defenses, pp. 273-294. Springer, Cham, 2018. [[Paper](https://arxiv.org/pdf/1805.12185)]
+
+## Acknowledgement
+   
+[[Prof. Aviral Shrivastava](https://labs.engineering.asu.edu/mps-lab/person/aviral-shrivastava/)] and [[Shail Dave](https://sites.google.com/view/shail)], 
+School of Computnig and AI, Arizona State University
+(For development of the course and the reading list) 
