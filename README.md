@@ -644,6 +644,6 @@ The following papers are additional readings.
 
 ## Acknowledgement
    
-[Prof. Aviral Shrivastava](https://labs.engineering.asu.edu/mps-lab/person/aviral-shrivastava/)] and [Shail Dave](https://sites.google.com/view/shail), <br>
-School of Computnig and AI, Arizona State University <br>
+[Prof. Aviral Shrivastava(https://labs.engineering.asu.edu/mps-lab/person/aviral-shrivastava/)] and [Shail Dave](https://sites.google.com/view/shail), <br>
+[Make Programming Simple Lab](https://labs.engineering.asu.edu/mps-lab/updates), School of Computnig and AI, Arizona State University <br>
 (For development of the course and the reading list) 
