@@ -73,16 +73,18 @@
 
 ## <a name="books"></a> Reference Books
 
-- Efficient processing of deep neural networks  (Synthesis Lectures on Computer Architecture) [Book].
-Authors - Vivienne Sze, Yu-Hsin Chen, Tien-Ju Yang, and Joel S. Emer.
-Publisher - Morgan and Claypool.
-ISBN: 978-1-68-173831-4.
+- Efficient processing of deep neural networks  [[Book](https://www.morganclaypool.com/doi/abs/10.2200/S01004ED1V01Y202004CAC050)] <br>
+(Synthesis Lectures on Computer Architecture) <br>
+Authors - Vivienne Sze, Yu-Hsin Chen, Tien-Ju Yang, and Joel S. Emer <br>
+Publisher - Morgan and Claypool <br>
+ISBN: 978-1-68-173831-4
 
-- Deep Learning Systems: Algorithms, Compilers, and Processors for Large-Scale Production (Synthesis Lectures on Computer Architecture) [[Book](https://www.rle.mit.edu/eems/wp-content/uploads/2017/11/2017_pieee_dnn.pdf)].
-Authors - Andres Rodriguez.
-Publisher - Morgan and Claypool.
-ISBN: 978-1-68-173966-3.
-EBook: https://deeplearningsystems.ai/.
+- Deep Learning Systems: Algorithms, Compilers, and Processors for Large-Scale Production [[Book](https://www.morganclaypool.com/doi/10.2200/S01046ED1V01Y202009CAC053)] <br>
+(Synthesis Lectures on Computer Architecture) <br>
+Authors - Andres Rodriguez <br>
+Publisher - Morgan and Claypool <br>
+ISBN: 978-1-68-173966-3 <br>
+EBook: https://deeplearningsystems.ai/
 
 ## <a name="surveys"></a> Reference Surveys
 
