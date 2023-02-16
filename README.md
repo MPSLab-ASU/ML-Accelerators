@@ -463,7 +463,7 @@ The following papers are additional readings.
 - Zhu, Yu, Zhenhao He, Wenqi Jiang, Kai Zeng, Jingren Zhou, and Gustavo Alonso. "Distributed recommendation inference on fpga clusters." In 2021 31st International Conference on Field-Programmable Logic and Applications (FPL), pp. 279-285. IEEE, 2021. [[Paper](https://kai-zeng.github.io/papers/FPL.pdf)]
 
 
-## <a name="graph-learning></a> Accelerators for Graph Learning
+## <a name="graph-learning"></a> Accelerators for Graph Learning
 
 - Garg, Raveesh, Eric Qin, Francisco Muñoz-Martínez, Robert Guirado, Akshay Jain, Sergi Abadal, José L. Abellán et al. "Understanding the Design Space of Sparse/Dense Multiphase Dataflows for Mapping Graph Neural Networks on Spatial Accelerators." arXiv preprint arXiv:2103.07977 (2021). In IPDPS 2022. [[Paper](https://arxiv.org/pdf/2103.07977.pdf)]
 
@@ -480,7 +480,7 @@ The following papers are additional readings.
 - Song, Xinkai, Tian Zhi, Zhe Fan, Zhenxing Zhang, Xi Zeng, Wei Li, Xing Hu, Zidong Du, Qi Guo, and Yunji Chen. "Cambricon-G: A Polyvalent Energy-Efficient Accelerator for Dynamic Graph Neural Networks." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 41, no. 1 (2021): 116-128. [[Paper](https://ieeexplore.ieee.org/abstract/document/9326339)]
 
 
-## <a name="other-domains></a> Accelerators for Other AI Domains
+## <a name="other-domains"></a> Accelerators for Other AI Domains
 
 The following papers are additional readings.
 
